@@ -1,12 +1,11 @@
 {
-  "get": [
-    { "token": "aaaaa", 
-      "title": "Post 1",
-      "id_token":"bbbbb",
-      "status":"200",
-      "aaa":"bbb"
-    }
-  ],
+  "get": { 
+    "token": "aaaaa", 
+    "title": "Post 1",
+    "id_token":"bbbbb",
+    "status":"200",
+    "aaa":"bbb"
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
